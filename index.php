@@ -14,3 +14,6 @@ $untilMessage = get_until_message($data["days_until"]);
     ?>
 </body>
 </html>
+
+//php -S localhost:9020
+
